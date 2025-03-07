@@ -1,3 +1,4 @@
+package Palindrome;
 public interface StackInterface<E> {
 
     /**
